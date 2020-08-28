@@ -1,0 +1,2 @@
+# krotnis
+For mining Krotnis
